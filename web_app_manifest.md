@@ -1,0 +1,19 @@
+{
+  "short_name": "منجز",
+  "name": "تطبيق منجز - تنظيم الحياة الدراسية",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='128' fill='%234A154B'/><path d='M368 176L216 328L144 256' stroke='%23C084FC' stroke-width='40' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='380' cy='130' r='20' fill='%23F43F5E'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#F8F9FA",
+  "theme_color": "#4A154B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
